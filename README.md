@@ -4,7 +4,7 @@ ___
 ##  :sparkles: :rocket:*Welcome to our repository*  :sparkles::rocket:
 ___
 ### *What ?*
-![Amazon](https://www.google.com/search?q=Amazon&client=firefox-b-d&sxsrf=ALeKk01TjH10-Twlmvp81x-8aTRj0Zadng:1603725322164&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjX3JOxxtLsAhXM66QKHWDzDr8Q_AUoAXoECAsQAw&biw=1280&bih=635#imgrc=Pp26nGzW5vAPJM)
+![Amazon]!(/data-visualization/pic.jpg)
 >We have chosen to work on an Amazon dataset from Kaggle called *"Toys products on Amazon"*
 >[link to our Dataset](https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon)
 
