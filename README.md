@@ -1,5 +1,6 @@
-
+___
 # **Group Emmanuel MORANO + Idrees IQBAL**
+___
 ##  :sparkles: :rocket:*Welcome to our repository*  :sparkles::rocket:
 
 ### *What ?*
@@ -21,7 +22,7 @@
 ### *Who ?*
 * sub-list.
 * sub-list.
-
+---
 ### **_To-do list_**
 - [x] this is a complete item
 - [ ] this is an incomplete item
