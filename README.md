@@ -14,7 +14,6 @@ ___
 
 ### *When ?*
 * 26 and 27th of October
-* sub-list.
 
 ### *How ?*
 * We will use Mathplotlib
