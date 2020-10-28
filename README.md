@@ -4,7 +4,7 @@ ___
 ##  :sparkles: :rocket:*Welcome to our repository*  :sparkles::rocket:
 ___
 ### *What ?*
-![Amazon](\Draft\pic.jpg)
+![Amazon](Draft/pic.jpg)
 >We have chosen to work on an Amazon dataset from Kaggle called *"Toys products on Amazon"*
 >[link to our Dataset](https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon)
 
