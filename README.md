@@ -13,7 +13,7 @@ ___
 * The dataset is composed of one CVS file easier to handle and not too big, 34MB. it shows 17 columns and 10,000 values, enough datas to plot in one day.
 
 ### *When ?*
-* 26 and 27th of October
+* 26 and 27th of October 2020
 
 ### *How ?*
 * We will use Mathplotlib
@@ -23,6 +23,6 @@ ___
 * Idrees IQBAL
 ---
 ### **_To-do list_**
-- [ ] Plot data on customer reviews (Idrees)
-- [ ] Plot data on Prices and suppliers (Emmanuel)
+- [x] Plot data on customer reviews (Emmanuel)
+- [x] Plot data on Prices and suppliers (Idrees)
 - [x] Update and pimp readme file (Emmanuel)
